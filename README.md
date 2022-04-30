@@ -1,2 +1,2 @@
 # pyodes
-pyodes - Python Open Delivery Platform
+pyodes - Python Open Delivery System
